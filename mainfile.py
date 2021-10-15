@@ -1,4 +1,5 @@
 import turtle
+# import tkinter
 import time
 import random
 
